@@ -106,12 +106,11 @@
 				0841B6CE23893EC100B1CEA5 /* AppDelegate.swift */,
 				0841B6D023893EC100B1CEA5 /* SceneDelegate.swift */,
 				0841B6D223893EC100B1CEA5 /* ContentView.swift */,
+				08B650C7238D7A1C004D7B4D /* Supporting Views */,
 				0841B6D423893EC300B1CEA5 /* Assets.xcassets */,
 				0841B6D923893EC300B1CEA5 /* LaunchScreen.storyboard */,
 				0841B6DC23893EC300B1CEA5 /* Info.plist */,
 				0841B6D623893EC300B1CEA5 /* Preview Content */,
-				08B650C3238ACCF8004D7B4D /* CircleImage.swift */,
-				08B650C5238D6764004D7B4D /* MapView.swift */,
 			);
 			path = LandMarks;
 			sourceTree = "<group>";
@@ -140,6 +139,15 @@
 				0841B6F223893EC400B1CEA5 /* Info.plist */,
 			);
 			path = LandMarksUITests;
+			sourceTree = "<group>";
+		};
+		08B650C7238D7A1C004D7B4D /* Supporting Views */ = {
+			isa = PBXGroup;
+			children = (
+				08B650C3238ACCF8004D7B4D /* CircleImage.swift */,
+				08B650C5238D6764004D7B4D /* MapView.swift */,
+			);
+			path = "Supporting Views";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
