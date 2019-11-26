@@ -16,6 +16,7 @@
 		0841B6E623893EC400B1CEA5 /* LandMarksTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0841B6E523893EC400B1CEA5 /* LandMarksTests.swift */; };
 		0841B6F123893EC400B1CEA5 /* LandMarksUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0841B6F023893EC400B1CEA5 /* LandMarksUITests.swift */; };
 		08B650C4238ACCF8004D7B4D /* CircleImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 08B650C3238ACCF8004D7B4D /* CircleImage.swift */; };
+		08B650C6238D6764004D7B4D /* MapView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 08B650C5238D6764004D7B4D /* MapView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		0841B6F023893EC400B1CEA5 /* LandMarksUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LandMarksUITests.swift; sourceTree = "<group>"; };
 		0841B6F223893EC400B1CEA5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		08B650C3238ACCF8004D7B4D /* CircleImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CircleImage.swift; sourceTree = "<group>"; };
+		08B650C5238D6764004D7B4D /* MapView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -109,6 +111,7 @@
 				0841B6DC23893EC300B1CEA5 /* Info.plist */,
 				0841B6D623893EC300B1CEA5 /* Preview Content */,
 				08B650C3238ACCF8004D7B4D /* CircleImage.swift */,
+				08B650C5238D6764004D7B4D /* MapView.swift */,
 			);
 			path = LandMarks;
 			sourceTree = "<group>";
@@ -272,6 +275,7 @@
 			files = (
 				0841B6CF23893EC100B1CEA5 /* AppDelegate.swift in Sources */,
 				08B650C4238ACCF8004D7B4D /* CircleImage.swift in Sources */,
+				08B650C6238D6764004D7B4D /* MapView.swift in Sources */,
 				0841B6D123893EC100B1CEA5 /* SceneDelegate.swift in Sources */,
 				0841B6D323893EC100B1CEA5 /* ContentView.swift in Sources */,
 			);
