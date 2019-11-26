@@ -33,6 +33,7 @@
 		08B650E5238D7D8C004D7B4D /* Data.swift in Sources */ = {isa = PBXBuildFile; fileRef = 08B650E4238D7D8C004D7B4D /* Data.swift */; };
 		08B650E7238D7DF8004D7B4D /* Landmark.swift in Sources */ = {isa = PBXBuildFile; fileRef = 08B650E6238D7DF8004D7B4D /* Landmark.swift */; };
 		08B650EA238DA07E004D7B4D /* LandmarkRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = 08B650E9238DA07E004D7B4D /* LandmarkRow.swift */; };
+		08B650EC238DA2B5004D7B4D /* LandmarkList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 08B650EB238DA2B5004D7B4D /* LandmarkList.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -85,6 +86,7 @@
 		08B650E4238D7D8C004D7B4D /* Data.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Data.swift; sourceTree = "<group>"; };
 		08B650E6238D7DF8004D7B4D /* Landmark.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Landmark.swift; sourceTree = "<group>"; };
 		08B650E9238DA07E004D7B4D /* LandmarkRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LandmarkRow.swift; sourceTree = "<group>"; };
+		08B650EB238DA2B5004D7B4D /* LandmarkList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LandmarkList.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -218,6 +220,7 @@
 			isa = PBXGroup;
 			children = (
 				08B650E9238DA07E004D7B4D /* LandmarkRow.swift */,
+				08B650EB238DA2B5004D7B4D /* LandmarkList.swift */,
 			);
 			path = "Landmark Views";
 			sourceTree = "<group>";
@@ -370,6 +373,7 @@
 				0841B6CF23893EC100B1CEA5 /* AppDelegate.swift in Sources */,
 				08B650E5238D7D8C004D7B4D /* Data.swift in Sources */,
 				08B650C4238ACCF8004D7B4D /* CircleImage.swift in Sources */,
+				08B650EC238DA2B5004D7B4D /* LandmarkList.swift in Sources */,
 				08B650C6238D6764004D7B4D /* MapView.swift in Sources */,
 				0841B6D123893EC100B1CEA5 /* SceneDelegate.swift in Sources */,
 				08B650EA238DA07E004D7B4D /* LandmarkRow.swift in Sources */,
