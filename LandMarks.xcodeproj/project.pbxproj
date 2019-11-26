@@ -30,6 +30,8 @@
 		08B650E0238D7B4C004D7B4D /* stmarylake.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 08B650D3238D7B4C004D7B4D /* stmarylake.jpg */; };
 		08B650E1238D7B4C004D7B4D /* chilkoottrail.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 08B650D4238D7B4C004D7B4D /* chilkoottrail.jpg */; };
 		08B650E2238D7B4C004D7B4D /* rainbowlake.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 08B650D5238D7B4C004D7B4D /* rainbowlake.jpg */; };
+		08B650E5238D7D8C004D7B4D /* Data.swift in Sources */ = {isa = PBXBuildFile; fileRef = 08B650E4238D7D8C004D7B4D /* Data.swift */; };
+		08B650E7238D7DF8004D7B4D /* Landmark.swift in Sources */ = {isa = PBXBuildFile; fileRef = 08B650E6238D7DF8004D7B4D /* Landmark.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -79,6 +81,8 @@
 		08B650D3238D7B4C004D7B4D /* stmarylake.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = stmarylake.jpg; sourceTree = "<group>"; };
 		08B650D4238D7B4C004D7B4D /* chilkoottrail.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = chilkoottrail.jpg; sourceTree = "<group>"; };
 		08B650D5238D7B4C004D7B4D /* rainbowlake.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = rainbowlake.jpg; sourceTree = "<group>"; };
+		08B650E4238D7D8C004D7B4D /* Data.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Data.swift; sourceTree = "<group>"; };
+		08B650E6238D7DF8004D7B4D /* Landmark.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Landmark.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -129,6 +133,7 @@
 		0841B6CD23893EC100B1CEA5 /* LandMarks */ = {
 			isa = PBXGroup;
 			children = (
+				08B650E3238D7D6E004D7B4D /* Models */,
 				0841B6CE23893EC100B1CEA5 /* AppDelegate.swift */,
 				0841B6D023893EC100B1CEA5 /* SceneDelegate.swift */,
 				0841B6D223893EC100B1CEA5 /* LandmarkDetail.swift */,
@@ -195,6 +200,15 @@
 				08B650D5238D7B4C004D7B4D /* rainbowlake.jpg */,
 			);
 			path = Resources;
+			sourceTree = "<group>";
+		};
+		08B650E3238D7D6E004D7B4D /* Models */ = {
+			isa = PBXGroup;
+			children = (
+				08B650E4238D7D8C004D7B4D /* Data.swift */,
+				08B650E6238D7DF8004D7B4D /* Landmark.swift */,
+			);
+			path = Models;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -341,7 +355,9 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				08B650E7238D7DF8004D7B4D /* Landmark.swift in Sources */,
 				0841B6CF23893EC100B1CEA5 /* AppDelegate.swift in Sources */,
+				08B650E5238D7D8C004D7B4D /* Data.swift in Sources */,
 				08B650C4238ACCF8004D7B4D /* CircleImage.swift in Sources */,
 				08B650C6238D6764004D7B4D /* MapView.swift in Sources */,
 				0841B6D123893EC100B1CEA5 /* SceneDelegate.swift in Sources */,
