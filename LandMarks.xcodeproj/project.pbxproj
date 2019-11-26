@@ -9,7 +9,7 @@
 /* Begin PBXBuildFile section */
 		0841B6CF23893EC100B1CEA5 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0841B6CE23893EC100B1CEA5 /* AppDelegate.swift */; };
 		0841B6D123893EC100B1CEA5 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0841B6D023893EC100B1CEA5 /* SceneDelegate.swift */; };
-		0841B6D323893EC100B1CEA5 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0841B6D223893EC100B1CEA5 /* ContentView.swift */; };
+		0841B6D323893EC100B1CEA5 /* LandmarkDetail.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0841B6D223893EC100B1CEA5 /* LandmarkDetail.swift */; };
 		0841B6D523893EC300B1CEA5 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0841B6D423893EC300B1CEA5 /* Assets.xcassets */; };
 		0841B6D823893EC300B1CEA5 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0841B6D723893EC300B1CEA5 /* Preview Assets.xcassets */; };
 		0841B6DB23893EC300B1CEA5 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0841B6D923893EC300B1CEA5 /* LaunchScreen.storyboard */; };
@@ -53,7 +53,7 @@
 		0841B6CB23893EC100B1CEA5 /* LandMarks.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = LandMarks.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		0841B6CE23893EC100B1CEA5 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		0841B6D023893EC100B1CEA5 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		0841B6D223893EC100B1CEA5 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		0841B6D223893EC100B1CEA5 /* LandmarkDetail.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LandmarkDetail.swift; sourceTree = "<group>"; };
 		0841B6D423893EC300B1CEA5 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		0841B6D723893EC300B1CEA5 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		0841B6DA23893EC300B1CEA5 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
@@ -131,7 +131,7 @@
 			children = (
 				0841B6CE23893EC100B1CEA5 /* AppDelegate.swift */,
 				0841B6D023893EC100B1CEA5 /* SceneDelegate.swift */,
-				0841B6D223893EC100B1CEA5 /* ContentView.swift */,
+				0841B6D223893EC100B1CEA5 /* LandmarkDetail.swift */,
 				08B650C7238D7A1C004D7B4D /* Supporting Views */,
 				08B650C8238D7B4C004D7B4D /* Resources */,
 				0841B6D423893EC300B1CEA5 /* Assets.xcassets */,
@@ -345,7 +345,7 @@
 				08B650C4238ACCF8004D7B4D /* CircleImage.swift in Sources */,
 				08B650C6238D6764004D7B4D /* MapView.swift in Sources */,
 				0841B6D123893EC100B1CEA5 /* SceneDelegate.swift in Sources */,
-				0841B6D323893EC100B1CEA5 /* ContentView.swift in Sources */,
+				0841B6D323893EC100B1CEA5 /* LandmarkDetail.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
