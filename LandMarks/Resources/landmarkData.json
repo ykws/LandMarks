@@ -19,7 +19,7 @@
         "city": "Port Alsworth",
         "state": "Alaska",
         "id": 4,
-        "isFavorite": true,
+        "isFavorite": false,
         "park": "Lake Clark National Park and Preserve",
         "coordinates": {
             "longitude": -152.665167,
