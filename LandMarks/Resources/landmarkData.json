@@ -61,7 +61,7 @@
         "city": "Twin Lakes",
         "state": "Alaska",
         "id": 11,
-        "isFavorite": true,
+        "isFavorite": false,
         "park": "Lake Clark National Park and Preserve",
         "coordinates": {
             "longitude": -153.849883,
@@ -75,7 +75,7 @@
         "city": "West Glacier",
         "state": "Montana",
         "id": 6,
-        "isFavorite": true,
+        "isFavorite": false,
         "park": "Glacier National Park",
         "coordinates": {
             "longitude": -113.934831,
@@ -89,7 +89,7 @@
         "city": "Eaking",
         "state": "Alaska",
         "id": 1,
-        "isFavorite": true,
+        "isFavorite": false,
         "park": "Charley Rivers National Preserve",
         "coordinates": {
             "longitude": -143.122586,
@@ -103,7 +103,7 @@
         "city": "Icy Bay",
         "state": "Alaska",
         "id": 2,
-        "isFavorite": true,
+        "isFavorite": false,
         "park": "Wrangell-St. Elias National Park and Preserve",
         "coordinates": {
             "longitude": -141.518167,
@@ -117,7 +117,7 @@
         "city": "Willow",
         "state": "Alaska",
         "id": 3,
-        "isFavorite": true,
+        "isFavorite": false,
         "park": "State Recreation Area",
         "coordinates": {
             "longitude": -150.086103,
@@ -131,7 +131,7 @@
         "city": "Newhalem",
         "state": "Washington",
         "id": 7,
-        "isFavorite": true,
+        "isFavorite": false,
         "park": "North Cascades National Park",
         "coordinates": {
             "longitude": -121.17799,
@@ -145,7 +145,7 @@
         "city": "Chincoteague",
         "state": "Virginia",
         "id": 9,
-        "isFavorite": true,
+        "isFavorite": false,
         "park": "Chincoteague National Wildlife Refuge",
         "coordinates": {
             "longitude": -75.383212,
@@ -159,7 +159,7 @@
         "city": "Errol",
         "state": "New Hampshire",
         "id": 10,
-        "isFavorite": true,
+        "isFavorite": false,
         "park": "Umbagog National Wildlife Refuge",
         "coordinates": {
             "longitude": -71.056816,
