@@ -3,7 +3,7 @@
 //  LandMarksUITests
 //
 //  Created by KAWASHIMA Yoshiyuki on 2019/11/23.
-//  Copyright © 2019 Yoshiyuki Kawashima. All rights reserved.
+//  Copyright © 2019 ykws. All rights reserved.
 //
 
 import XCTest
