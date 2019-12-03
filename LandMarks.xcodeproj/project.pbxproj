@@ -154,17 +154,13 @@
 				0841B6CE23893EC100B1CEA5 /* AppDelegate.swift */,
 				0841B6D023893EC100B1CEA5 /* SceneDelegate.swift */,
 				0841B6D223893EC100B1CEA5 /* LandmarkDetail.swift */,
+				08B650F123954E4A004D7B4D /* HexagonParameters.swift */,
 				08B650C7238D7A1C004D7B4D /* Supporting Views */,
 				08B650C8238D7B4C004D7B4D /* Resources */,
 				0841B6D423893EC300B1CEA5 /* Assets.xcassets */,
 				0841B6D923893EC300B1CEA5 /* LaunchScreen.storyboard */,
 				0841B6DC23893EC300B1CEA5 /* Info.plist */,
 				0841B6D623893EC300B1CEA5 /* Preview Content */,
-				08B650EF23954C7D004D7B4D /* BadgeBackground.swift */,
-				08B650F123954E4A004D7B4D /* HexagonParameters.swift */,
-				08B650F323960211004D7B4D /* Badge.swift */,
-				08B650F523960265004D7B4D /* BadgeSymbol.swift */,
-				08B650F7239605E5004D7B4D /* RotatedBadgeSymbol.swift */,
 			);
 			path = LandMarks;
 			sourceTree = "<group>";
@@ -200,6 +196,10 @@
 			children = (
 				08B650C3238ACCF8004D7B4D /* CircleImage.swift */,
 				08B650C5238D6764004D7B4D /* MapView.swift */,
+				08B650F323960211004D7B4D /* Badge.swift */,
+				08B650F523960265004D7B4D /* BadgeSymbol.swift */,
+				08B650F7239605E5004D7B4D /* RotatedBadgeSymbol.swift */,
+				08B650EF23954C7D004D7B4D /* BadgeBackground.swift */,
 			);
 			path = "Supporting Views";
 			sourceTree = "<group>";
