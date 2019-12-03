@@ -36,6 +36,7 @@
 		08B650EC238DA2B5004D7B4D /* LandmarkList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 08B650EB238DA2B5004D7B4D /* LandmarkList.swift */; };
 		08B650EE2392C1C3004D7B4D /* UserData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 08B650ED2392C1C3004D7B4D /* UserData.swift */; };
 		08B650F023954C7D004D7B4D /* Badge.swift in Sources */ = {isa = PBXBuildFile; fileRef = 08B650EF23954C7D004D7B4D /* Badge.swift */; };
+		08B650F223954E4A004D7B4D /* HexagonParameters.swift in Sources */ = {isa = PBXBuildFile; fileRef = 08B650F123954E4A004D7B4D /* HexagonParameters.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -91,6 +92,7 @@
 		08B650EB238DA2B5004D7B4D /* LandmarkList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LandmarkList.swift; sourceTree = "<group>"; };
 		08B650ED2392C1C3004D7B4D /* UserData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserData.swift; sourceTree = "<group>"; };
 		08B650EF23954C7D004D7B4D /* Badge.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Badge.swift; sourceTree = "<group>"; };
+		08B650F123954E4A004D7B4D /* HexagonParameters.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HexagonParameters.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -153,6 +155,7 @@
 				0841B6DC23893EC300B1CEA5 /* Info.plist */,
 				0841B6D623893EC300B1CEA5 /* Preview Content */,
 				08B650EF23954C7D004D7B4D /* Badge.swift */,
+				08B650F123954E4A004D7B4D /* HexagonParameters.swift */,
 			);
 			path = LandMarks;
 			sourceTree = "<group>";
@@ -375,6 +378,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				08B650F223954E4A004D7B4D /* HexagonParameters.swift in Sources */,
 				08B650E7238D7DF8004D7B4D /* Landmark.swift in Sources */,
 				0841B6CF23893EC100B1CEA5 /* AppDelegate.swift in Sources */,
 				08B650F023954C7D004D7B4D /* Badge.swift in Sources */,
