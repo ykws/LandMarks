@@ -50,8 +50,8 @@ struct HikeGraph: View {
                         index: index,
                         height: proxy.size.height,
                         range: data[index][keyPath: self.path],
-                        overallRange: overallRange
-                    ).colorMultiply(self.color)
+                        overallRange: overallRange)
+                    .colorMultiply(self.color)
                 }
                 .offset(x: 0, y: proxy.size.height * heightRatio)
             }
