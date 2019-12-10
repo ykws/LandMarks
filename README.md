@@ -20,3 +20,5 @@
 <img src="https://github.com/ykws/LandMarks/blob/master/Screen%20Recording%202019-12-01%20at%201.24.20.gif?raw=true" width="400">
 
 ![image](https://github.com/ykws/LandMarks/blob/master/Screen%20Shot%202019-12-03%20at%2012.16.47.png?raw=true)
+
+<img src="https://github.com/ykws/LandMarks/blob/master/animating_views_and_transitions.gif?raw=true" width="400">
