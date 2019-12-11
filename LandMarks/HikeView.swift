@@ -58,7 +58,7 @@ struct HikeView: View {
     }
 }
 
-struct HIkeView_Previews: PreviewProvider {
+struct HikeView_Previews: PreviewProvider {
     static var previews: some View {
         VStack {
             HikeView(hike: hikeData[0])
