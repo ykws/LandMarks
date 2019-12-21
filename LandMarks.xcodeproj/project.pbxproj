@@ -48,6 +48,7 @@
 		08F91BBC23A5AF7900BD554F /* CategoryHome.swift in Sources */ = {isa = PBXBuildFile; fileRef = 08F91BBB23A5AF7900BD554F /* CategoryHome.swift */; };
 		08F91BC023A5C72D00BD554F /* charleyrivers.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 08F91BBF23A5C72D00BD554F /* charleyrivers.jpg */; };
 		08F91BC223A5C92800BD554F /* CategoryRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = 08F91BC123A5C92700BD554F /* CategoryRow.swift */; };
+		08F91BC723AD9A4200BD554F /* Profile.swift in Sources */ = {isa = PBXBuildFile; fileRef = 08F91BC623AD9A4200BD554F /* Profile.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -115,6 +116,7 @@
 		08F91BBB23A5AF7900BD554F /* CategoryHome.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CategoryHome.swift; sourceTree = "<group>"; };
 		08F91BBF23A5C72D00BD554F /* charleyrivers.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = charleyrivers.jpg; sourceTree = "<group>"; };
 		08F91BC123A5C92700BD554F /* CategoryRow.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CategoryRow.swift; sourceTree = "<group>"; };
+		08F91BC623AD9A4200BD554F /* Profile.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Profile.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -254,6 +256,7 @@
 				08B650E6238D7DF8004D7B4D /* Landmark.swift */,
 				08B650ED2392C1C3004D7B4D /* UserData.swift */,
 				08B650FB23969700004D7B4D /* Hike.swift */,
+				08F91BC623AD9A4200BD554F /* Profile.swift */,
 			);
 			path = Models;
 			sourceTree = "<group>";
@@ -413,6 +416,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				08F91BC223A5C92800BD554F /* CategoryRow.swift in Sources */,
+				08F91BC723AD9A4200BD554F /* Profile.swift in Sources */,
 				08B650FC23969700004D7B4D /* Hike.swift in Sources */,
 				08F91BBC23A5AF7900BD554F /* CategoryHome.swift in Sources */,
 				08B650FE23969856004D7B4D /* HikeGraph.swift in Sources */,
