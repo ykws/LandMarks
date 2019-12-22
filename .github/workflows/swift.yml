@@ -6,13 +6,8 @@ jobs:
   build:
 
     runs-on: macOS-latest
-    strategy:
-      matrix:
-        destination: ['platform=iOS Simulator,name=iPhone 11 Pro']
 
     steps:
     - uses: actions/checkout@master
     - name: Build and test
-      run: xcodebuild clean test -project LandMarks.xcodeproj -scheme LandMarks -destination "${destination}"
-      env:
-        destination: ${{ matrix.destination }} 
+      run: xcodebuild clean test -project LandMarks.xcodeproj -scheme LandMarks -destination "platform=iOS Simulator"
