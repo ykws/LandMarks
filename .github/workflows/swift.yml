@@ -9,5 +9,5 @@ jobs:
 
     steps:
     - uses: actions/checkout@master
-    - name: Build and test
-      run: xcodebuild clean test -project LandMarks.xcodeproj -scheme LandMarks -destination "platform=iOS Simulator,name=Generic iOS Simulator Device"
+    - name: Show Simulator List
+      run: xcrun instruments -s
