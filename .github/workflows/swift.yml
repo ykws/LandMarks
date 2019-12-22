@@ -11,8 +11,8 @@ jobs:
         destination: ['platform=iOS Simulator,name=iPhone 11 Pro']
 
     steps:
-    - uses: actions/checkout@v1
+    - uses: actions/checkout@master
     - name: Build and test
-      run: xcodebuild clean test -project LandMarks.xcodeproj -scheme LandMarks -destination "${destination}" CODE_SIGN_IDENTIFY="" CODE_SIGNING_REQUIRED=NO ONLY_ARCH=NO
+      run: xcodebuild clean test -project LandMarks.xcodeproj -scheme LandMarks -destination "${destination}"
       env:
         destination: ${{ matrix.destination }} 
