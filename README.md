@@ -16,5 +16,6 @@
 
 ## App Design and Layout
 * [Composing Complex Interfaces](https://developer.apple.com/tutorials/swiftui/composing-complex-interfaces)
+* [Working with UI Controls](https://developer.apple.com/tutorials/swiftui/working-with-ui-controls)
 
 :iphone: [ScreenShots](https://github.com/ykws/LandMarks/blob/master/ScreenShots/README.md) :traffic_light: This link is heavy.
