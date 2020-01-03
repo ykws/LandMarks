@@ -45,6 +45,7 @@
 		08B651002396AE64004D7B4D /* GraphCapsule.swift in Sources */ = {isa = PBXBuildFile; fileRef = 08B650FF2396AE64004D7B4D /* GraphCapsule.swift */; };
 		08B651022396B093004D7B4D /* hikeData.json in Resources */ = {isa = PBXBuildFile; fileRef = 08B651012396B093004D7B4D /* hikeData.json */; };
 		08B65104239C7376004D7B4D /* HikeDetail.swift in Sources */ = {isa = PBXBuildFile; fileRef = 08B65103239C7376004D7B4D /* HikeDetail.swift */; };
+		08D8BDC923BED3C4002A7BFF /* PageControl.swift in Sources */ = {isa = PBXBuildFile; fileRef = 08D8BDC823BED3C4002A7BFF /* PageControl.swift */; };
 		08F91BBC23A5AF7900BD554F /* CategoryHome.swift in Sources */ = {isa = PBXBuildFile; fileRef = 08F91BBB23A5AF7900BD554F /* CategoryHome.swift */; };
 		08F91BC023A5C72D00BD554F /* charleyrivers.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 08F91BBF23A5C72D00BD554F /* charleyrivers.jpg */; };
 		08F91BC223A5C92800BD554F /* CategoryRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = 08F91BC123A5C92700BD554F /* CategoryRow.swift */; };
@@ -123,6 +124,7 @@
 		08B650FF2396AE64004D7B4D /* GraphCapsule.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GraphCapsule.swift; sourceTree = "<group>"; };
 		08B651012396B093004D7B4D /* hikeData.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = hikeData.json; sourceTree = "<group>"; };
 		08B65103239C7376004D7B4D /* HikeDetail.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HikeDetail.swift; sourceTree = "<group>"; };
+		08D8BDC823BED3C4002A7BFF /* PageControl.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PageControl.swift; sourceTree = "<group>"; };
 		08F91BBB23A5AF7900BD554F /* CategoryHome.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CategoryHome.swift; sourceTree = "<group>"; };
 		08F91BBF23A5C72D00BD554F /* charleyrivers.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = charleyrivers.jpg; sourceTree = "<group>"; };
 		08F91BC123A5C92700BD554F /* CategoryRow.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CategoryRow.swift; sourceTree = "<group>"; };
@@ -206,6 +208,7 @@
 				08F91BC123A5C92700BD554F /* CategoryRow.swift */,
 				08F91BDE23B82C4600BD554F /* PageView.swift */,
 				08F91BDD23B82C4600BD554F /* PageViewController.swift */,
+				08D8BDC823BED3C4002A7BFF /* PageControl.swift */,
 			);
 			path = LandMarks;
 			sourceTree = "<group>";
@@ -483,6 +486,7 @@
 				08B650F423960211004D7B4D /* Badge.swift in Sources */,
 				08B651002396AE64004D7B4D /* GraphCapsule.swift in Sources */,
 				08F91BC923AD9D0C00BD554F /* ProfileSummary.swift in Sources */,
+				08D8BDC923BED3C4002A7BFF /* PageControl.swift in Sources */,
 				0841B6D323893EC100B1CEA5 /* LandmarkDetail.swift in Sources */,
 				08B65104239C7376004D7B4D /* HikeDetail.swift in Sources */,
 				08F91BCD23AEDB3900BD554F /* ProfileEditor.swift in Sources */,
