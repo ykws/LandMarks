@@ -8,6 +8,6 @@ jobs:
     runs-on: macOS-latest
 
     steps:
-    - uses: actions/checkout@v1
+    - uses: actions/checkout@v4
     - name: Build
-      run: xcodebuild -sdk iphonesimulator -configuration Debug build
+      run: xcodebuild -project LandMarks.xcodeproj/ -scheme LandMarks -sdk iphonesimulator -destination "platform=iOS Simulator,name=iPhone 15"
